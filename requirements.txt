@@ -1,0 +1,6 @@
+jupyterlab==4.2.5
+matplotlib==3.7.1
+numpy==1.26.4
+pylatexenc==2.10
+pyscf==2.7.0
+qiskit-nature==0.7.2
